@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navmenu{
+  @apply block py-0 text-black font-semibold hover:text-green-600;
+}
